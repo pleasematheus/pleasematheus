@@ -19,9 +19,7 @@ Here are some ideas to get you started:
 Future penetration tester | IT student | Technology enthusiast | Red team lover
 <br>
 
-<img src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif"></p>
-
-<br>
+<img src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif">
 
 ## Social Networks
 
