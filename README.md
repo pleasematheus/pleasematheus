@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 -->
 
 ### I'm Matheus Fracalossi
-Future penetration tester | IT student | Technology enthusiast | Red team lover
-<br>
+<h3>Penetration Tester | IT student | Technology enthusiast | Red teamer</h3> <br>
 
 <img src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif">
 
