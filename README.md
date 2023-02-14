@@ -17,8 +17,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h2>I'm Matheus Fracalossi</h2>
-<h3>Penetration Tester | IT student | Technology enthusiast | Red teamer</h3> <br>
+<h3>I'm Matheus Fracalossi</h3>
+<h4>Penetration Tester | IT student | Technology enthusiast | Red teamer</h4> <br>
 
 <img src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif">
 
