@@ -16,25 +16,19 @@
   <h1>I'm Matheus <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32px"></h1>
 </div>
 
-<!--
-**pleasematheus/pleasematheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<div align="center">
+<div >
 	<b>🍷🗿 Matheus Fracalossi | 🐱‍💻 Penetration Tester | 🇧🇷 Brazil, MS </b><br><br>
-	<img src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif">
 </div>
+
+<img align="right" src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif">
+
+<div align="left">
+<ul>
+	<li> 🔭 I'm currently looking a job as jr penetration tester<br>
+	<li> 🌱 I'm currently learning C and red team techniques<br>
+	<li> ⚡ Fun fact: 404 not found!<br>
+</ul>
+</div><br><br><br>
 
 <div align="center">
 	<h2>Social Medias</h2>
