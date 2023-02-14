@@ -17,7 +17,7 @@
 </div>
 
 <div align="center">
-	<b>🍷🗿 Matheus Fracalossi | 🐱‍💻 Penetration Tester | 🇧🇷 Brazil, MS </b><br><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Ubuntu&duration=2000&pause=300&color=000000&background=FFFFFF&vCenter=true&multiline=true&width=435&height=100&lines=%F0%9F%8D%B7%F0%9F%97%BF+Matheus+Fracalossi;%F0%9F%90%B1%E2%80%8D%F0%9F%92%BB+Penetration+Tester;Brazil%2C+MS" alt="Typing SVG" /></a><br>
 </div>
 
 <img align="right" src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif">
