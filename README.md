@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 </div>
 
 [<p align="center">
-<img src="https://tryhackme-badges.s3.amazonaws.com/pleasematheus.png" alt="TryHackMe">![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/matheusfracalossi)](https://www.linkedin.com/in/matheusfracalossi) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&link=https://www.instagram.com/pleasematheus)](https://www.instagram.com/pleasematheus)<br>
+<img src="https://tryhackme-badges.s3.amazonaws.com/pleasematheus.png" alt="TryHackMe"><br>![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfracalossi) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pleasematheus)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleasematheus&langs_count=5)](https://github.com/pleasematheus/github-readme-stats)
 </p>
