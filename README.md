@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<b>🍷🗿 Matheus Fracalossi | 🐱‍💻 Penetration Tester | 🇧🇷 Brazil, MS </b><br><br>
 <div align="center">
+	<b>🍷🗿 Matheus Fracalossi | 🐱‍💻 Penetration Tester | 🇧🇷 Brazil, MS </b><br><br>
 	<img src="https://media.giphy.com/media/WiM5K1e9MtEic/giphy.gif">
 </div>
 
