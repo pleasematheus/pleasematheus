@@ -24,7 +24,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-525CEB.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfracalossi)
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Matheus+Fracalossi;%F0%9F%9B%B8+Frontend+developer;Brazil%2C+MS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Matheus+Fracalossi;%F0%9F%9B%B8+DevOps+Engineer;Brazil%2C+MS" alt="Typing SVG" /></a>
 
 </div>
 
