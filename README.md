@@ -23,7 +23,6 @@
 <h3>📫 Social Media</h3>
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-525CEB.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusfracalossi)
-[![Instagram](https://img.shields.io/badge/Instagram-525CEB.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/pleasematheus)
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&multiline=true&random=false&width=435&height=100&lines=%F0%9F%91%A8%E2%80%8D%F0%9F%92%BB+Matheus+Fracalossi;%F0%9F%9B%B8+Frontend+developer;Brazil%2C+MS" alt="Typing SVG" /></a>
 
@@ -42,14 +41,16 @@
 <div align="center">
 	<h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Hammer%20and%20Wrench.png" alt="Hammer and Wrench" width="25" height="25"/> Tech Stack</h2>
 
-![HTML5](https://img.shields.io/badge/-html-525CEB.svg?style=for-the-badge&logo=html5&logoColor=FFF)
-![CSS](https://img.shields.io/badge/-CSS-525CEB?style=for-the-badge&logo=CSS3&logoColor=FFF)
-![JavaScript](https://img.shields.io/badge/-JavaScript-525CEB?style=for-the-badge&logo=javascript&logoColor=FFF)
-![Express.js](https://img.shields.io/badge/express.js-525CEB.svg?style=for-the-badge&logo=express&logoColor=FFF)
+![AWS](https://img.shields.io/badge/AWS-%23525CEB.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%23525CEB.svg?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23525CEB.svg?style=for-the-badge&logo=github&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/github%20actions-%23525CEB.svg?style=for-the-badge&logo=githubactions&logoColor=white)
+![JavaScript](https://img.shields.io/badge/javascript-%23525CEB.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-525CEB?style=for-the-badge&logo=postgresql&logoColor=FFF)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-525CEB.svg?style=for-the-badge&logo=tailwind-css&logoColor=FFF)
-![React](https://img.shields.io/badge/react-525CEB.svg?style=for-the-badge&logo=react&logoColor=FFF)
-![React Native](https://img.shields.io/badge/react_native-525CEB.svg?style=for-the-badge&logo=react&logoColor=FFF)
+![Rust](https://img.shields.io/badge/rust-%23525CEB.svg?style=for-the-badge&logo=rust&logoColor=%23B7410E)
+![Supabase](https://img.shields.io/badge/Supabase-525CEB?style=for-the-badge&logo=supabase&logoColor=%2334B27B)
+![Vagrant](https://img.shields.io/badge/Vagrant-525CEB?style=for-the-badge&logo=Vagrant&logoColor=white)
+![VirtualBox](https://img.shields.io/badge/VirtualBox-525CEB?style=for-the-badge&logo=VirtualBox&logoColor=white)
 </div>
 
 <div align='center'>
