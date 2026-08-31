@@ -33,7 +33,7 @@
 		<li><p>🔭 Analysis and System Development at <a target="_blank" href="https://www.ifms.edu.br/">IFMS-NA</a></p></li>
 		<li><p>🖥️ DevOps Engineer</p></li>
 		<li><p>⚡ Fun fact: 404 not found!</p></li>
-		<li><p>📧 How to reach me: <a target="_blank" href="mailto:matheus4k@gmail.com">matheus4k@gmail.com</a></p></li>
+		<li><p>📧 How to reach me: <a target="_blank" href="mailto:contato@pleasematheus.dev">contato@pleasematheus.dev</a></p></li>
 	</ul>
 
 </div>
