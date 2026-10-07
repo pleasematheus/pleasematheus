@@ -56,8 +56,8 @@
 <div align='center'>
   <h2><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" alt="Chart Increasing" width="25" height="25" /> Statistics</h2>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleasematheus&layout=compact&theme=react&title_color=525CEB)
-
 [![GitHub stats](https://github-readme-stats.vercel.app/api?username=pleasematheus&theme=react&title_color=525CEB)](https://github.com/pleasematheus/github-readme-stats)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pleasematheus&layout=compact&theme=react&title_color=525CEB)
 </div>
 </div>
